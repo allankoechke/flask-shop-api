@@ -1,1 +1,1 @@
-# flask-shop-api
+# Shop API
